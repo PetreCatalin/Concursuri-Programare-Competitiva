@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1416415169 source:d:\work\test1\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+	<cstdio>
+

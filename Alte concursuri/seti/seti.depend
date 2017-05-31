@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1314089919 source:c:\work\codeblocks\share\codeblocks\seti\main.cpp
+	<cstdio>
+	<cstring>
+

@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1344417211 source:c:\work\codeblocks\dijkstra\main.cpp
+	<fstream>
+

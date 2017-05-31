@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1359386016 source:c:\work\codeblocks\teren2\main.cpp
+	<cstdio>
+	<cmath>
+	<algorithm>
+

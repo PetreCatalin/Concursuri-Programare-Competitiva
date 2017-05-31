@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1312280874 source:c:\work\codeblocks\share\codeblocks\morse\main.cpp
+	<fstream>
+	<cstring>
+

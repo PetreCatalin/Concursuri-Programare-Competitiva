@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426081836 source:d:\work\proiectpoomatrici\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

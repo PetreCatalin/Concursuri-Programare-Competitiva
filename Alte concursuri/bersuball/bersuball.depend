@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1436083491 source:e:\work\bersuball\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+

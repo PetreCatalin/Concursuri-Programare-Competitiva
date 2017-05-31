@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1361090632 source:c:\work\codeblocks\incadrare\main.cpp
+	<fstream>
+

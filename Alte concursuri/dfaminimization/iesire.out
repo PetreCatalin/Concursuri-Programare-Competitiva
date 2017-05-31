@@ -1,0 +1,16 @@
+Numar de stari: 4
+Starea 1: {6 }
+Starea 2: {5 }
+Starea 3: {1 4 }
+Starea 4: {0 2 3 }
+Numarul de stari finale: 2
+Starile finale sunt: 1 2 
+Tranzitiile sunt:
+1 2 a
+1 1 b
+2 4 a
+2 3 b
+3 2 a
+3 1 b
+4 3 b
+4 4 a

@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1315893537 source:c:\work\codeblocks\share\codeblocks\back combinari\main.cpp
+	<fstream>
+

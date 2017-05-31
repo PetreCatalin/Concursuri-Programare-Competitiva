@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1361813943 source:c:\work\codeblocks\drum\main.cpp
+	<fstream>
+	<vector>
+

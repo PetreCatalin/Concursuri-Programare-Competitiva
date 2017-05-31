@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1361439377 source:c:\work\codeblocks\comptareconexe\main.cpp
+	<fstream>
+	<vector>
+

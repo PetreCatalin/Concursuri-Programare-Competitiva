@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1311607486 source:c:\work\codeblocks\share\codeblocks\ingerasi\main.cpp
+	<cstdio>
+	<cstring>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1432919544 source:e:\work\biti\main.cpp
+	<fstream>
+	<vector>
+	<stack>
+	<bitset>
+

@@ -1,0 +1,95 @@
+#include <fstream>
+#include <algorithm>
+#include <cmath>
+#include <cstdio>
+
+using namespace std;
+
+typedef struct{
+    int x;
+    int y;
+}nume;
+
+nume a[2005],b[2005];
+long int n,m,i,x,x1,y3,x2,y2,j,nr,y,aux,v1[30005],v2[30005],numar,o,r,h;
+double s;
+
+int main()
+{
+    ifstream f("parc.in");
+    freopen ("parc.out","w",stdout);
+    f>>n>>m;
+    f>>x1>>y3>>x2>>y2;
+    if (x1>x2) {
+        aux=x1;
+        x1=x2;
+        x2=aux;
+        aux=y3;
+        y3=y2;
+        y2=aux;
+    }
+    f>>x;
+    for (i=1;i<=x;i++) {
+        f>>a[i].x>>a[i].y;
+        if (a[i].x>a[i].y) {
+            aux=a[i].x;
+            a[i].x=a[i].y;
+            a[i].y=aux;
+        }
+        for (j=a[i].x;j<=a[i].y-1;j++)
+            if (v1[j]==0) v1[j]=1;
+    }
+
+    f>>y;
+    for (i=1;i<=y;i++) {
+        f>>b[i].x>>b[i].y;
+        if (b[i].x>b[i].y) {
+            aux=b[i].x;
+            b[i].x=b[i].y;
+            b[i].y=aux;
+        }
+        for (j=b[i].x;j<=b[i].y-1;j++)
+            if (v2[j]==0) v2[j]=1;
+    }
+
+    for (i=y3;i<=y2-1;i++)
+    if (v2[i]==0) nr++;
+     double k=(double)nr/2;
+    s=nr*nr+k*k;
+    s=sqrt(s);
+    s=s+(y2-y3-nr);
+    s=x2-x1;
+    s=s-k;
+
+    printf("%f",(double)s);
+    printf("\n");
+
+    numar=1;
+
+    for (i=1;i<=x;i++)
+        for (j=1;j<=x;j++) {
+            o=a[i].x;
+            r=b[i].x;
+            n=x1;m=y3;
+            for (h=x1;h<=o-1;h++)
+            if (v1[h]==1) n++;
+            nr=0;
+            for (h=y3;h<=r-1;h++) {
+                if (v2[h]==1) m++;
+                else  {
+                    m++;
+                    nr++;
+                    if (nr%2==0) {nr=0;n++;}
+                }
+            }
+            if (n==o&&nr==0 &&m==r) numar=numar*2;
+            else
+            if (n+0.5==o &&nr==1 &&m==r) numar=numar*2;
+        }
+
+    printf("%d",numar);
+
+    f.close();
+    fclose(stdout);
+        return 0;
+}

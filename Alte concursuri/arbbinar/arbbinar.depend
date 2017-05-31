@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1346427149 source:c:\work\codeblocks\arbbinar\main.cpp
+	<fstream>
+

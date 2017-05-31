@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1360168719 source:c:\work\codeblocks\numar\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+

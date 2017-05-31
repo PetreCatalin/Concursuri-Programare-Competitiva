@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1360913916 source:c:\work\codeblocks\flower\main.cpp
+	<fstream>
+

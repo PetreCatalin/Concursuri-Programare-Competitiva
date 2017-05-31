@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1311922379 source:c:\work\codeblocks\share\codeblocks\lacuri\main.cpp
+	<fstream>
+

@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1344332364 source:c:\work\codeblocks\parclatime-bf\main.cpp
+	<fstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1313484298 source:c:\work\codeblocks\share\codeblocks\catalin\main.cpp
+	<cstdio>
+	<cstring>
+

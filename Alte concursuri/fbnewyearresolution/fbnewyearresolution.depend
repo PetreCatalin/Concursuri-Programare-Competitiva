@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1420908985 source:d:\work\fbnewyearresolution\main.cpp
+	<vector>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+

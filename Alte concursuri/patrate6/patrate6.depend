@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1417806862 source:d:\work\patrate6\main.cpp
+	<fstream>
+	<algorithm>
+	<vector>
+

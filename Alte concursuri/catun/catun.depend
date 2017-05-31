@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1361383555 source:c:\work\codeblocks\catun\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1319276571 source:c:\work\codeblocks\share\codeblocks\leecal\main.cpp
+	<fstream>
+

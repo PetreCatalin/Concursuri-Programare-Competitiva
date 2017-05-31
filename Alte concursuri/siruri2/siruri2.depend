@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1361039485 source:c:\work\codeblocks\siruri2\main.cpp
+	<cstdio>
+	<cstring>
+

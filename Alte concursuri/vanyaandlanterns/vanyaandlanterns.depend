@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1436007964 source:e:\work\vanyaandlanterns\main.cpp
+	<iostream>
+	<algorithm>
+	<iomanip>
+

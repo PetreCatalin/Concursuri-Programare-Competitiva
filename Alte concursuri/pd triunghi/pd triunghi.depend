@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1312568630 source:c:\work\codeblocks\share\codeblocks\pd triunghi\main.cpp
+	<fstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1417281046 source:d:\work\pariuri\main.cpp
+	<cstdio>
+	<unordered_map>
+

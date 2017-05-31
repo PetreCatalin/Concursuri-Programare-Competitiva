@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1361180292 source:c:\work\codeblocks\aciclic\main.cpp
+	<fstream>
+	<vector>
+

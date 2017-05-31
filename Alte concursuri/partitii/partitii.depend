@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1320257684 source:c:\work\codeblocks\share\codeblocks\partitii\main.cpp
+	<fstream>
+

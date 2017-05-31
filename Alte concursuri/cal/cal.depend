@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1399216357 source:c:\work\codeblocks\cal\main.cpp
+	<fstream>
+

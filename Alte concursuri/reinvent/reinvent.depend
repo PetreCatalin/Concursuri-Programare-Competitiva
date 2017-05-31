@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1359052059 source:c:\work\codeblocks\reinvent\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+

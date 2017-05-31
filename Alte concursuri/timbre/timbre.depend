@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1421418035 source:d:\work\timbre\main.cpp
+	<cstdio>
+	<algorithm>
+

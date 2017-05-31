@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1425993068 source:d:\work\proiectafn\main.cpp
+	<fstream>
+	<vector>
+	<iostream>
+
+1425993070 source:d:\proiectafn\main.cpp
+	<fstream>
+	<vector>
+	<iostream>
+

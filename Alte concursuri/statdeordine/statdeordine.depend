@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415635854 source:d:\work\statdeordine\main.cpp
+	<fstream>
+	<vector>
+

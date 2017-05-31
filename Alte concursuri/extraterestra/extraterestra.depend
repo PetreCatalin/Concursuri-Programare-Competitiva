@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1424510414 source:d:\work\extraterestra\main.cpp
+	<fstream>
+	<cmath>
+

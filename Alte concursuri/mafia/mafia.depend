@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1427645982 source:d:\work\mafia\main.cpp
+	<fstream>
+	<cstdio>
+	<iostream>
+	<algorithm>
+	<iomanip>
+

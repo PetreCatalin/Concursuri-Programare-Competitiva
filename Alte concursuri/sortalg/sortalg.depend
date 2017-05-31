@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1360337683 source:c:\work\codeblocks\sortalg\main.cpp
+	<fstream>
+	<algorithm>
+

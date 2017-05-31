@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1350203567 source:c:\work\codeblocks\prieteni3\main.cpp
+	<fstream>
+

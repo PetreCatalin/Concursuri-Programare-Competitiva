@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1429444172 source:e:\work\prietenie3\main.cpp
+	<fstream>
+	<algorithm>
+	<cmath>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1421419012 source:d:\work\lupul urias si rau\main.cpp
+	<cstdio>
+	<algorithm>
+	<set>
+

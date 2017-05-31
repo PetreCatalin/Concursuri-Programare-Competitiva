@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415381586 source:d:\work\parantezare\main.cpp
+	<fstream>
+	<cstring>
+	<vector>
+

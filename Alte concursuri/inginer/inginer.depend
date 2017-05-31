@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1312041658 source:c:\work\codeblocks\share\codeblocks\inginer\main.cpp
+	<cstdio>
+	<cstring>
+

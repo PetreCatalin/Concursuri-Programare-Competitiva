@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1405176005 source:d:\work\cakeminator\main.cpp
+	<iostream>
+	<cstring>
+

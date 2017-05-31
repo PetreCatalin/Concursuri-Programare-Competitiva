@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1404841187 source:d:\work\twins\main.cpp
+	<iostream>
+	<algorithm>
+

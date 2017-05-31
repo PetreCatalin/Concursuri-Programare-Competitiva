@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1413016321 source:d:\work\pr7\main.cpp
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1407841888 source:d:\work\pointsandsegments\main.cpp
+	<iostream>
+	<algorithm>
+

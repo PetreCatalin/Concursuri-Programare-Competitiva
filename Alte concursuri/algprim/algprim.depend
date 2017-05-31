@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1346066802 source:c:\work\codeblocks\algprim\main.cpp
+	<fstream>
+

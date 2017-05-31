@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1429435664 source:e:\work\produs4\main.cpp
+	<fstream>
+	<algorithm>
+

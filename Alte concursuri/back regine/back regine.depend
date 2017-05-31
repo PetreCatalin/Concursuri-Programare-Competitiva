@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1315570713 source:c:\work\codeblocks\share\codeblocks\back regine\main.cpp
+	<fstream>
+	<cmath>
+

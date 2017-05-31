@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1419432531 source:d:\work\temajerry\main.cpp
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

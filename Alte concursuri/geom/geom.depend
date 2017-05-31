@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1360916998 source:c:\work\codeblocks\geom\main.cpp
+	<fstream>
+	<cmath>
+

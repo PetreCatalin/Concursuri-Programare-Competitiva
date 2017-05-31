@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1361896450 source:c:\work\codeblocks\permutari-back\main.cpp
+	<fstream>
+

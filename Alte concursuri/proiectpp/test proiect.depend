@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1414590011 source:d:\work\test proiect\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+

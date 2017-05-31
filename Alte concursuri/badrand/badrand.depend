@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1409669071 source:d:\work\badrand\main.cpp
+	<fstream>
+	<cmath>
+

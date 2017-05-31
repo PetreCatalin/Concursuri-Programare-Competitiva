@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1359563888 source:c:\work\codeblocks\algoritmulluiprim\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+

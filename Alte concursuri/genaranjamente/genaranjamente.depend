@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1358961471 source:c:\work\codeblocks\genaranjamente\main.cpp
+	<fstream>
+

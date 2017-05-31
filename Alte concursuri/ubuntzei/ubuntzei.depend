@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1358960543 source:c:\work\codeblocks\ubuntzei\main.cpp
+	<fstream>
+

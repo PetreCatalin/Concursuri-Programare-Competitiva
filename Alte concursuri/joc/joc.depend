@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1360862563 source:c:\work\codeblocks\joc\main.cpp
+	<fstream>
+

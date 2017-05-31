@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1311781579 source:c:\work\codeblocks\share\codeblocks\pic\main.cpp
+	<fstream>
+

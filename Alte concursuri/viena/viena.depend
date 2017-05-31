@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1361201560 source:c:\work\codeblocks\viena\main.cpp
+	<fstream>
+

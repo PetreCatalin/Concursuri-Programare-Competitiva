@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1360074082 source:c:\work\codeblocks\dreptc\main.cpp
+	<fstream>
+	<cmath>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1361371390 source:c:\work\codeblocks\codul\main.cpp
+	<fstream>
+	<cstring>
+

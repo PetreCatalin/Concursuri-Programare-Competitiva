@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1361550478 source:c:\work\codeblocks\divk\main.cpp
+	<fstream>
+

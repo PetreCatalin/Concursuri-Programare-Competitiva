@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1407412986 source:d:\work\spreadsheets\main.cpp
+	<iostream>
+	<cstring>
+

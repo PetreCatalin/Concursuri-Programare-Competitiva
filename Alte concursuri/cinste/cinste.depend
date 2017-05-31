@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1351259058 source:c:\work\codeblocks\cinste\main.cpp
+	<fstream>
+

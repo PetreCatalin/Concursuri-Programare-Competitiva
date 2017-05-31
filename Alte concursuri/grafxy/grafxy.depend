@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1359796481 source:c:\work\codeblocks\grafxy\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+

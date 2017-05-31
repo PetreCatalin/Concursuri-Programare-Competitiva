@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1361435231 source:c:\work\codeblocks\royfloyd\main.cpp
+	<fstream>
+

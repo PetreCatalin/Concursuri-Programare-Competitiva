@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1405009376 source:d:\work\puzzles\main.cpp
+	<iostream>
+	<algorithm>
+

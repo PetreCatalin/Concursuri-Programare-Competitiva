@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1418143735 source:d:\work\taste\main.cpp
+	<fstream>
+	<cmath>
+

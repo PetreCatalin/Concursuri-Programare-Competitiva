@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1349701429 source:c:\work\codeblocks\megascoala\main.cpp
+	<fstream>
+

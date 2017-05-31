@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1413562782 source:d:\work\t3p10\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+

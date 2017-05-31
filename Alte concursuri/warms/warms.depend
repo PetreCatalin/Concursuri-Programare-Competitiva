@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1436001971 source:e:\work\warms\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<iostream>
+

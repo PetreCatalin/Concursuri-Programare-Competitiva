@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1361286943 source:c:\work\codeblocks\alge\main.cpp
+	<fstream>
+

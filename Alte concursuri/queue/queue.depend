@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416040128 source:d:\work\queue\main.cpp
+	<fstream>
+	<vector>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1349958058 source:c:\work\codeblocks\sortnet\main.cpp
+	<fstream>
+	<cstring>
+

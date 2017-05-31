@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1425580428 source:d:\work\amici2\main.cpp
+	<cstdio>
+	<vector>
+	<cmath>
+	<cstring>
+

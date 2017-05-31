@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1424514737 source:d:\work\meciul.in\main.cpp
+	<fstream>
+	<cstring>
+

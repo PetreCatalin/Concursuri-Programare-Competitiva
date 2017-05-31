@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415438542 source:d:\work\par\main.cpp
+	<fstream>
+	<vector>
+

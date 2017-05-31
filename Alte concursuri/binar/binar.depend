@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1421262811 source:d:\work\binar\main.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+

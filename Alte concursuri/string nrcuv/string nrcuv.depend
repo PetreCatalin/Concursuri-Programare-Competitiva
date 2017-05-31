@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1312887179 source:c:\work\codeblocks\share\codeblocks\string nrcuv\main.cpp
+	<cstring>
+	<cstdio>
+

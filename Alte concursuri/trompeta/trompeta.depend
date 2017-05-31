@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415443802 source:d:\work\trompeta\main.cpp
+	<fstream>
+	<vector>
+

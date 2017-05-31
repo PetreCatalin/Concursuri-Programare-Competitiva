@@ -1,0 +1,12 @@
+11
+push_back(3)
+push_back(5)
+push_back(116)
+pop_front()
+pop_front()
+push_back(2)
+push_back(12)
+pop_front()
+push_back(71)
+pop_front()
+pop_front()

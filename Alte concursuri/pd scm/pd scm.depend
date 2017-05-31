@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1312528682 source:c:\work\codeblocks\share\codeblocks\pd scm\main.cpp
+	<fstream>
+

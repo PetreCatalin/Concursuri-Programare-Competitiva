@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1404810824 source:d:\work\football\main.cpp
+	<iostream>
+	<cstring>
+

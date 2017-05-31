@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431243095 source:e:\work\ratphu\main.cpp
+	<fstream>
+	<cstring>
+	<cstdio>
+

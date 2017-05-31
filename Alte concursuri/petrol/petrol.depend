@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1361811870 source:c:\work\codeblocks\petrol\main.cpp
+	<fstream>
+

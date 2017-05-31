@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415631914 source:d:\work\camionas\main.cpp
+	<fstream>
+	<vector>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1404751825 source:d:\work\capslock\main.cpp
+	<iostream>
+	<cstring>
+

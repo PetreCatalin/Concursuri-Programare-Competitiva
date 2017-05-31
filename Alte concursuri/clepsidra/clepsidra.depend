@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1428734098 source:e:\work\clepsidra\main.cpp
+	<vector>
+	<algorithm>
+	<fstream>
+

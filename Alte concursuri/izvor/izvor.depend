@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1360507702 source:c:\work\codeblocks\izvor\main.cpp
+	<fstream>
+

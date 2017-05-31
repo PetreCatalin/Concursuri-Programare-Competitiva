@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1349270989 source:c:\work\codeblocks\scara\main.cpp
+	<fstream>
+

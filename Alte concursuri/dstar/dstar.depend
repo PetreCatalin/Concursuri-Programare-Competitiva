@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1427647130 source:d:\work\dstar\main.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<queue>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<cstdlib>
+

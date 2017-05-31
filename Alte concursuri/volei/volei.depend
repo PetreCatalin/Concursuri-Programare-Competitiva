@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1360261848 source:c:\work\codeblocks\volei\main.cpp
+	<cstdio>
+	<cmath>
+

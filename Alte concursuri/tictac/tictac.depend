@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1427637176 source:d:\work\tictac\main.cpp
+	<fstream>
+	<cmath>
+

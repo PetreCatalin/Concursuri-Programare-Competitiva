@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1361289822 source:c:\work\codeblocks\zbor\main.cpp
+	<fstream>
+

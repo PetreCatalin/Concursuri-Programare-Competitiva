@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1399217273 source:c:\work\codeblocks\labirint\main.cpp
+	<fstream>
+

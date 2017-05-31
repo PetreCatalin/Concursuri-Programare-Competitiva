@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1314169220 source:c:\work\codeblocks\share\codeblocks\arhivare\main.cpp
+	<fstream>
+	<cstring>
+

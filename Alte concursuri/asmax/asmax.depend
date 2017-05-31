@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1430417179 source:e:\work\asmax\main.cpp
+	<fstream>
+	<vector>
+

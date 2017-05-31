@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431941048 source:e:\work\gandacijava\main.cpp
+	<fstream>
+	<vector>
+	<cstring>
+

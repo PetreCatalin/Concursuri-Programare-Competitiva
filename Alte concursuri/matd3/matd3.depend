@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1359800987 source:c:\work\codeblocks\matd3\main.cpp
+	<fstream>
+

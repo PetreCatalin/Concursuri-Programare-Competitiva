@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1432977986 source:e:\work\caroiaj\main.cpp
+	<fstream>
+	<vector>
+

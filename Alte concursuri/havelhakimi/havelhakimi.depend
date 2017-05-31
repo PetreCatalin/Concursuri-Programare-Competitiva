@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1426501886 source:d:\work\havelhakimi\main.cpp
+	<fstream>
+	<utility>
+	<vector>
+	<algorithm>
+
+1426501888 source:e:\havelhakimi\main.cpp
+	<fstream>
+	<utility>
+	<vector>
+	<algorithm>
+

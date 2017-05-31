@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1414315932 source:d:\work\reuniune\main.cpp
+	<stdio.h>
+	<math.h>
+	<algorithm>
+

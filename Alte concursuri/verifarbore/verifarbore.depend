@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1346259279 source:c:\work\codeblocks\verifarbore\main.cpp
+	<fstream>
+

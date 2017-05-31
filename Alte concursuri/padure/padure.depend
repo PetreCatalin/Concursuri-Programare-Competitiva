@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426267733 source:d:\work\padure\main.cpp
+	<cstdio>
+	<queue>
+	<cstring>
+

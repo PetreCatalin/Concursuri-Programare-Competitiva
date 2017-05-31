@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1313758887 source:c:\work\codeblocks\share\codeblocks\string anagr\main.cpp
+	<fstream>
+	<cstring>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1417766089 source:d:\work\grid\main.cpp
+	<cstdio>
+	<list>
+

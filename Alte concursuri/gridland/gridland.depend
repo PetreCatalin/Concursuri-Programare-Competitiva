@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1437213986 source:e:\work\gridland\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+

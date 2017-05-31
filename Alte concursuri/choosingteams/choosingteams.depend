@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1407395694 source:d:\work\choosingteams\main.cpp
+	<iostream>
+	<algorithm>
+
